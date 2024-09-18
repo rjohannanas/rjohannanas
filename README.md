@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning pygames, javaprojects  
 - 💞️ I’m looking to collaborate on starting projects
 - 📫 How to reach me: I´m on linkedIn like Rocio Johanna Blas Carpio
-- 😄 Pronouns: her
 - ⚡ Fun fact: university needs you, not you xd
 
 <!---
